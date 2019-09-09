@@ -57,7 +57,7 @@
 }
 
 .min_container, .max_container{
-    argin: 1rem 3rem;
+    margin: 1rem 3rem;
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr;
@@ -101,5 +101,5 @@
 
 .weather-icob_container{
     width: 10rem;
-    
+
 }
